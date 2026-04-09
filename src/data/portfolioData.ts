@@ -16,7 +16,7 @@ export const portfolioData: PortfolioData = {
   shortBio: "Fresh Graduate | Web Dev | ERP", 
   location: "Jakarta, Indonesia", 
   profileImage: "/profile_photo.jpg", 
-  cvLink: "/CV_ValereynaJK.pdf",  
+  cvLink: "/CV_Valereyna.pdf",  
   about: { 
     bio: "I am a dedicated and enthusiastic Information Systems graduate with a strong foundation in software development, databases, and enterprise systems. Currently, I am interning as an Oracle Developer at PT Enseval Putera Megatrading (Kalbe Group), where I work on ERP-related solutions and business process optimization. Alongside my ERP and Oracle development experience, I have a keen interest in full-stack web development and continue to build projects that enhance both my technical expertise and problem-solving skills. I am passionate about applying technology to solve real-world challenges, whether through enterprise applications, data-driven insights, or modern web solutions. As a quick learner and collaborative team player, I am always seeking opportunities to grow, take on new challenges, and contribute to impactful projects in a dynamic environment.",
     details: [
